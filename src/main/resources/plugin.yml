@@ -4,4 +4,4 @@ authors: ['dumptruckman', 'Rigby', 'fernferret', 'lithium3141', 'main--', 'benwo
 website: 'https://dev.bukkit.org/projects/multiverse-core'
 softdepend: ['Vault', 'PlaceholderAPI']
 api-version: 1.13
-version: ${version}
+version: '5.3.4-SEED'
