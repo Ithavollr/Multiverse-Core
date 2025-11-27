@@ -7,7 +7,7 @@ plugins {
 
 group = 'org.mvplugins.multiverse.core'
 description = 'Multiverse-Core'
-version = '5.3.5-SEED'
+version = '5.3.4-SEED'
 
 repositories {
     maven {
